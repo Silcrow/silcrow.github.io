@@ -1,10 +1,1 @@
-
-# Minimal Mistakes Theme Settings
-remote_theme: "mmistakes/minimal-mistakes" # Use the theme
-
-# Enable Sidebar Navigation
-#sidebar:
-#  - nav  # This will use the theme’s built-in navigation sidebar
-
-# Table of contents (optional, enables TOC feature on pages)
-#toc: true
+remote_theme: "jasonlong/jekyll-docs"
