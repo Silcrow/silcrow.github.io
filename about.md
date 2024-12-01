@@ -1,3 +1,3 @@
 # About
 
-[Home](index.html)
+[Home](/)

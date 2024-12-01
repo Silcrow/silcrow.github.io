@@ -1,3 +1,3 @@
 # Contact
 
-[Home](index.html)
+[Home](/)
