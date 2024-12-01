@@ -1,3 +1,3 @@
 # About
 
-[Home](README.html)
+[Home](index.html)
