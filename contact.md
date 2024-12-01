@@ -4,11 +4,11 @@
     Table of contents
   </summary>
   {: .text-delta }
-1. TOC
 {:toc}
 </details>
 
 # Table Sample
+
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
 | ok           | good swedish fish | nice  |
