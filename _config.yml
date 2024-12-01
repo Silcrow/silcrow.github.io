@@ -1,56 +1,10 @@
-title: My Jekyll Site
-email: your-email@example.com
-description: "A site to showcase my work."
-baseurl: "" # The subpath of your site (e.g., /blog)
-url: "https://yourusername.github.io" # The base URL for your site
 
 # Minimal Mistakes Theme Settings
 remote_theme: "mmistakes/minimal-mistakes" # Use the theme
 
-# Social Media Links (optional)
-social_links:
-  - icon: "twitter"
-    link: "https://twitter.com/yourusername"
-  - icon: "github"
-    link: "https://github.com/yourusername"
-
-# Permalinks
-permalink: "/:year/:month/:day/:title/"
-
 # Enable Sidebar Navigation
-sidebar:
-  - nav  # This will use the theme’s built-in navigation sidebar
+#sidebar:
+#  - nav  # This will use the theme’s built-in navigation sidebar
 
 # Table of contents (optional, enables TOC feature on pages)
-toc: true
-
-# Enable categories and tags for blog posts (optional)
-categories: true
-tags: true
-
-# Theme Settings for Navigation and Sidebar
-navigation:
-  - title: "Home"
-    url: "/"
-  - title: "About"
-    url: "/about.html"
-  - title: "Contact"
-    url: "/contact.html"
-
-# Optional: Enable Disqus Comments (if you want comments)
-comments:
-  disqus:
-    shortname: your-disqus-shortname
-
-# Build settings (optional)
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-paginate
-
-# Theme-specific settings
-minimal_mistakes:
-  search: true
-  footer:
-    credits: true
+#toc: true
