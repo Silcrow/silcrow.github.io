@@ -1,4 +1,7 @@
 remote_theme: "pmarsceill/just-the-docs"
-toc: true
+
+#toc: true
+color_scheme: dark
 heading_anchors: true
 nav_enabled: true
+search_enabled: true

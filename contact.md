@@ -8,4 +8,10 @@
 | ok           | good `zoute` drop | yumm  |
 
 
+{: .note-title }
+> My note title
+>
+> A paragraph with a custom title callout
+
+
 [Home](/)
