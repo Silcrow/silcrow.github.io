@@ -8,11 +8,11 @@
 
 # My notebooks
 
-| App          | Purpose                    | Remarks |
-|:-------------|:---------------------------|:--------|
-| Obsidian     | private                    |         |
-| Notion       | collaborative cheat sheets | team    |
-| GitHub Pages | obscure but not secure     |         |
+| App          | Purpose                    | Remarks                                                                              |
+|:-------------|:---------------------------|:-------------------------------------------------------------------------------------|
+| Obsidian     | private                    |                                                                                      |
+| Notion       | collaborative cheat sheets | https://the-silcrow.notion.site/Publicly-accessible-15f83b62d4898021a431fc9eb8ec6a74 |
+| GitHub Pages | obscure but not secure     |                                                                                      |
 
 
 | App      | Purpose                    | Remarks                                                                                  |
